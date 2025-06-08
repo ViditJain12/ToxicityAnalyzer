@@ -1,3 +1,6 @@
+# To Run this App
+https://viditjain12-toxicityanalyzer-app-mer3k6.streamlit.app/
+
 # Reddit Guard
 
 A tool to analyze the toxicity levels of Reddit communities and help users make informed decisions about joining them.
